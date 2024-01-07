@@ -1,2 +1,2 @@
 # llm-detect-ai-generated-text
-My work on Kaggle competition: LLM - Detect AI Generated Text
+My experiments on AI generated text detection, and also Kaggle competition: LLM - Detect AI Generated Text
